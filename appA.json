@@ -1,117 +1,139 @@
 
 [
     {
-
+    "precio":120,
+    "nombre": "modelo 1",
     "id":1,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa.jpg"
 
     },
     {
-
+    "precio":140,
+    "nombre": "modelo 2",
     "id":2,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa2.jpg"
     },
     {
-
+    "precio":200,
+    "nombre": "modelo 3",
     "id":3,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa3.jpg"
         
     },
     {
-
+    "precio":120,
+    "nombre": "modelo 4",
     "id":4,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/camisa4.jpg"
             
     },
     {
-
+    "precio":120,
+    "nombre": "modelo 5",
     "id":5,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon.jpg"
                 
     },
     {
-
+    "precio":120,
+    "nombre": "modelo 6",
     "id":6,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon2.jpg"
                     
     },
     {
-
+    "precio":120,
+    "nombre": "modelo 7",
     "id":7,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/short.jpg"
                         
     },
     {
-
+    "precio":120,
+    "nombre": "modelo 8",
     "id":8,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/short2.jpg"
                             
     },
     {
-
+    "precio":120,
+    "nombre": "modelo 9",
     "id":9,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/short3.jpg"
                                 
     },
     {
+    "precio":120,
+    "nombre": "modelo 10",
      "id":10,
     "thumbnailUrl":"http://maquinita.atwebpages.com/img/short4.jpg"
                                     
      },
      {
-
+        "precio":120,
+        "nombre": "modelo 11",
         "id":11,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/sudadera.jpg"
     
         },
         {
-    
+        "precio":120,
+        "nombre": "modelo 12",
         "id":12,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/sudadera2.jpg"
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 13",
         "id":13,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/sudadera3.jpg"
             
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 14",
         "id":14,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/sueter.jpg"
                 
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 15",
         "id":15,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/sueter2.jpg"
                     
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 16",
         "id":16,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/vestido.jpg"
                         
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 17",
         "id":17,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/vestido2.jpg"
                             
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 18",
         "id":18,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/vestido3.jpg"
                                 
         },
         {
-    
+            "precio":120,
+            "nombre": "modelo 19",
         "id":19,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/vestido4.jpg"
                                     
         },
         {
+            "precio":120,
+            "nombre": "modelo 20",
          "id":20,
         "thumbnailUrl":"http://maquinita.atwebpages.com/img/vestido5.jpg"
                                         
