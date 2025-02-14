@@ -26,13 +26,13 @@
     {
 
     "id":5,
-    "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon.png"
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon.jpg"
                 
     },
     {
 
     "id":6,
-    "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon2.png"
+    "thumbnailUrl":"http://maquinita.atwebpages.com/img/pantalon2.jpg"
                     
     },
     {
@@ -61,13 +61,13 @@
      {
 
         "id":11,
-        "thumbnailUrl":"http://amaquinita.atwebpages.com/img/sudadera.jpg"
+        "thumbnailUrl":"http://maquinita.atwebpages.com/img/sudadera.jpg"
     
         },
         {
     
         "id":12,
-        "thumbnailUrl":"http://maquinita.atwebpages.com/img/sudadera2.png"
+        "thumbnailUrl":"http://maquinita.atwebpages.com/img/sudadera2.jpg"
         },
         {
     
@@ -84,7 +84,7 @@
         {
     
         "id":15,
-        "thumbnailUrl":"http://maquinita.atwebpages.com/img/sueter2.png"
+        "thumbnailUrl":"http://maquinita.atwebpages.com/img/sueter2.jpg"
                     
         },
         {
