@@ -1,105 +1,145 @@
-
 [
     {
-
+    "precio":90,
+    "nombre": "modelo 1",
     "id":1,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/camisa.jpg"
 
     },
     {
-
+   "precio":80,
+    "nombre": "modelo 2",
     "id":2,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/camisa2.jpg"
     },
     {
-
+   "precio":76,
+    "nombre": "modelo 3",
     "id":3,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/camisa3.jpg"
         
     },
     {
-
+   "precio":120,
+    "nombre": "modelo 4",
     "id":4,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/camisa4.jpg"
             
     },
     {
-
+   "precio":55,
+    "nombre": "modelo 5",
     "id":5,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/pantalon.jpg"
                 
     },
     {
-
+   "precio":67,
+    "nombre": "modelo 6",
     "id":6,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/pantalon2.jpg"
                     
     },
     {
-
+   "precio":39,
+    "nombre": "modelo 7",
     "id":7,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/short.jpg"
                         
     },
     {
-
+   "precio":199,
+    "nombre": "modelo 8",
     "id":8,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/short2.jpg"
                             
     },
     {
-
+   "precio":127,
+    "nombre": "modelo 9",
     "id":9,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/short3.jpg"
                                 
     },
     {
+    "precio":100,
+    "nombre": "modelo 10",
      "id":10,
     "thumbnailUrl":"http://actividadesnrr.kesug.com/img/short4.jpg"
                                     
      },
      {
-
+   "precio":110,
+    "nombre": "modelo 11",
         "id":11,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/sudadera.jpg"
     
         },
         {
-    
+       "precio":150,
+    "nombre": "modelo 12",
         "id":12,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/sudadera2.jpg"
         },
         {
-    
+       "precio":160,
+    "nombre": "modelo 13",
         "id":13,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/sudadera3.jpg"
             
         },
         {
-    
+       "precio":170,
+    "nombre": "modelo 14",
         "id":14,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/sueter.jpg"
                 
         },
         {
-    
+       "precio":190,
+    "nombre": "modelo 15",
         "id":15,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/sueter2.jpg"
                     
         },
         {
-    
+       "precio":400,
+    "nombre": "modelo 16",
         "id":16,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/vestido.jpg"
                         
         },
         {
-    
+       "precio":320,
+    "nombre": "modelo 17",
         "id":17,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/vestido2.jpg"
                             
         },
         {
+       "precio":230,
+    "nombre": "modelo 18",
+        "id":18,
+        "thumbnailUrl":"http://actividadesnrr.kesug.com/img/vestido3.jpg"
+                                
+        },
+        {
+       "precio":250,
+    "nombre": "modelo 19",
+        "id":19,
+        "thumbnailUrl":"http://actividadesnrr.kesug.com/img/vestido4.jpg"
+                                    
+        },
+        {
+               "precio":200,
+    "nombre": "modelo 20",
+         "id":20,
+        "thumbnailUrl":"http://actividadesnrr.kesug.com/img/vestido5.jpg"
+                                        
+         }
+
+
+]
     
         "id":18,
         "thumbnailUrl":"http://actividadesnrr.kesug.com/img/vestido3.jpg"
